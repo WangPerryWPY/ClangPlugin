@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/clang/tools/diagtool/diagtool_main.cpp \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/clang/tools/diagtool/DiagTool.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/StringRef.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/DenseMapInfo.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/STLFunctionalExtras.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/STLForwardCompat.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/iterator_range.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/Support/Compiler.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/build/include/llvm/Config/llvm-config.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/Support/ManagedStatic.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/Support/raw_ostream.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/SmallVector.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/Support/type_traits.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/Optional.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/Hashing.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/Support/DataTypes.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm-c/DataTypes.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/Support/ErrorHandling.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/Support/SwapByteOrder.h \
+  /Users/peiyuwang/Desktop/iwyu1/llvm-project/llvm/include/llvm/ADT/None.h

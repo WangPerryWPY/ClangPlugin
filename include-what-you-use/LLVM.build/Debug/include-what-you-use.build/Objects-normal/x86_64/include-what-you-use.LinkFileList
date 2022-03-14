@@ -1,0 +1,14 @@
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_ast_util.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_cache.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_driver.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_getopt.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_globals.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_include_picker.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_lexer_utils.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_location_util.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_output.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_path_util.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_preprocessor.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/iwyu_verrs.o
+/Users/peiyuwang/Desktop/iwyu1/llvm-project/build/tools/clang/tools/include-what-you-use/LLVM.build/Debug/include-what-you-use.build/Objects-normal/x86_64/dummy.o
